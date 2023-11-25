@@ -1,0 +1,13 @@
+name: computer-science
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  computer-science:
+    main: src/computer-science.cr
+
+crystal: 0.34.0
+
+license: MIT
